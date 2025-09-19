@@ -10,7 +10,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>FleetLink</h1>
+      <h1>🚚 FleetLink – Logistics Vehicle Booking System</h1>
       <div className="section">
         <h2>Add Vehicle</h2>
         <AddVehicle baseUrl={baseUrl} />
